@@ -2,7 +2,7 @@
 
 A machine learning project that detects fraudulent mobile money transactions on the PaySim synthetic dataset. It covers exploratory analysis, feature engineering, handling extreme class imbalance, model comparison, interpretability with SHAP, a time-based validation check, and a Streamlit demo app.
 
-**Live demo:** <YOUR-STREAMLIT-APP-URL>
+**Live demo:** https://paysim-fraud-detect.streamlit.app
 
 ## Problem
 
